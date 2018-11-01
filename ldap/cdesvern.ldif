@@ -1,0 +1,16 @@
+dn: uid=cdesvern,ou=users,dc=slash16,dc=local
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: cdesvern
+uid: cdesvern
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/cdesvern
+loginShell: /bin/zsh
+gecos: cdesvern
+userPassword: {SSHA}0GXtmnaaZwz38yYritRl7KW/bFF6AgUx
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

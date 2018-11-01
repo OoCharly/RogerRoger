@@ -1,0 +1,16 @@
+dn: uid=thifranc,ou=users,dc=slash16,dc=local
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: thifranc
+uid: thifranc
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/thifranc
+loginShell: /bin/zsh
+gecos: thifranc
+userPassword: {SSHA}0GXtmnaaZwz38yYritRl7KW/bFF6AgUx
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

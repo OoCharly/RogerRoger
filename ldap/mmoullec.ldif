@@ -1,0 +1,16 @@
+dn: uid=mmoullec,ou=users,dc=slash16,dc=local
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: mmoullec
+uid: mmoullec
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/mmoullec
+loginShell: /bin/zsh
+gecos: mmoullec
+userPassword: {SSHA}0GXtmnaaZwz38yYritRl7KW/bFF6AgUx
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

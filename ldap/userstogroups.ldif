@@ -1,0 +1,20 @@
+# dgameiro
+#dn: cn=sudoers,ou=groups,dc=slash16,dc=local
+#changetype: modify
+#add: memberuid
+#memberuid: dgameiro 
+
+#dn: cn=sudoers,ou=groups,dc=slash16,dc=local
+#changetype: modify
+#add: memberuid
+#memberuid: cdesvern 
+
+dn: cn=sudoers,ou=groups,dc=slash16,dc=local
+changetype: modify
+add: memberuid
+memberuid: mmoullec 
+
+dn: cn=sudoers,ou=groups,dc=slash16,dc=local
+changetype: modify
+add: memberuid
+memberuid: thifranc 

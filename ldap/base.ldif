@@ -1,0 +1,15 @@
+dn: dc=slash16,dc=local
+objectClass: dcObject
+objectClass: organization
+o: slash16.local
+
+dc: slash16
+dn: ou=users,dc=slash16,dc=local
+objectClass: organizationalUnit
+objectClass: top
+ou: users
+
+dn: ou=groups,dc=slash16,dc=local
+objectClass: organizationalUnit
+objectClass: top
+ou: groups

@@ -1,0 +1,5 @@
+# sudoers group
+dn: cn=sudoers,ou=groups,dc=slash16,dc=local
+objectClass: top
+objectClass: posixGroup
+gidNumber: 678

@@ -1,0 +1,16 @@
+dn: uid=dgameiro,ou=users,dc=slash16,dc=local
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: dgameiro
+uid: dgameiro
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/dgameiro
+loginShell: /bin/zsh
+gecos: dgameiro
+userPassword: {SSHA}MLTxIT/DMKgFXuKzucmxpuYF/zYnzPWJ
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
